@@ -1,0 +1,18 @@
+{
+  "name": "2 m Putting Practice",
+  "short_name": "Putting 2m",
+  "description": "Daily 100-putt practice tracker at a fixed distance of 2 metres.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f3",
+  "theme_color": "#174b32",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
